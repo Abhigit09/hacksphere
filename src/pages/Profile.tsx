@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useSelector } from 'react-redux';
-import { usersAPI } from '../services/api';
+import { usersAPI } from '../services/users';
 import { RootState } from '../store';
 
 interface UserProfile {

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hacksphere/static/css/main.70b3e943.css",
+    "main.js": "/hacksphere/static/js/main.56bc813c.js",
+    "static/js/453.8ab44547.chunk.js": "/hacksphere/static/js/453.8ab44547.chunk.js",
+    "index.html": "/hacksphere/index.html",
+    "main.70b3e943.css.map": "/hacksphere/static/css/main.70b3e943.css.map",
+    "main.56bc813c.js.map": "/hacksphere/static/js/main.56bc813c.js.map",
+    "453.8ab44547.chunk.js.map": "/hacksphere/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70b3e943.css",
+    "static/js/main.56bc813c.js"
+  ]
+}

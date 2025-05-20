@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Abhigit09.github.io/hacksphere",
+  "homepage": "https://abhishekmanegit.github.io/hacksphere",
   "dependencies": {
     "@headlessui/react": "^2.2.3",
     "@heroicons/react": "^2.2.0",
